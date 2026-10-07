@@ -28,7 +28,7 @@ let total =
 let NilaiRatarata = [80, 75, 90, 85, 70];
 let totalRATArata = nilaiRataRata[0] + NilaiRatarata[1] +
 NilaiRatarata[2] + NilaiRatarata[3] + NilaiRatarata[4];
-let rataRATA =totalRataRata/ 5;
+let rataRATA =totalRATArata/ 5;
 console.log(rataRATA)
 
 let nilaiRataRata = [80, 75, 65, 45, 90, 90, 78, 80, 35, 95];
