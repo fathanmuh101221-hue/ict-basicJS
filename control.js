@@ -71,3 +71,10 @@ if (angka[3] % 2 === 0){
 }else{
     // console.log("Ganjil");
 } 
+
+let nama = ["Andi","Budi","Citra"];
+if (nama[2] === "Citra"){
+     console.log("Nama ditemukan");
+}else{
+     console.log("Nama tidak ditemukan");
+} 
